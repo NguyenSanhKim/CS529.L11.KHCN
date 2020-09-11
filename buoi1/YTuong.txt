@@ -1,0 +1,5 @@
+Phân cụm dữ liệu khách hàng về chi nhánh của ngân hàng
+1.Input: Thông tin khách hàng, địa chỉ chi nhánh
+2. Output: những khách hàng gần chi nhánh
+3.Ý nghĩa: giúp quản lý các khách hàng tốt hơn
+4. Cần có kiến thức csdl phân tán
