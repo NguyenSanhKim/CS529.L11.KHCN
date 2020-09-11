@@ -1,0 +1,10 @@
+Những nội dung đã thực hiện trong buổi 1:
+- Giáo viên giới thiệu lớp học, mở lớp tên CS529.L11.KHCL trên Google Classroom, sinh viên trong lớp phải tham gia bằng mail sinh viên.
+- Làm bảng tên 
+- Tất cả thành viên trong lớp tự giới thiệu về bản thân
+- Thành viên trong lớp chia nhóm để thực hiện đồ án cuối kì, mỗi nhóm 3 thành viên
+- Nhóm trưởng giới thiệu về nhóm của mình, về các thành viên và đặt một câu hỏi bất kỳ cho giảng viên.
+- Mỗi nhóm tự thảo luận và đề xuất một đề tài ứng dụng của máy tính.
+- Giảng viên phổ biến các vấn đề xoay quanh môn học.
+- Điểm danh cuối giờ.
+- Yêu cầu sinh viên tạo tài khoản Github, create 1 repository để theo dõi quá trình teamwork trong suốt học kỳ.
