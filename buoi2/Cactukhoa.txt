@@ -1,0 +1,4 @@
+- Conferences: Chọn ra 1 lĩnh vực nghiên cứu trong các bài nghiên cứu khoa học được đăng tại các hội nghị
+- Tutorials: Những nghiên cứu để tham khảo vì đã có những giải đáp cụ thể cho bài toán được chọn.
+- Workshops: trình bày những vấn đề đang nghiên cứu cho bài toán.
+- Grand challenges: những thách thức, vấn đề chuyên sâu hơn về đề tài cần nghiêng cứu.
