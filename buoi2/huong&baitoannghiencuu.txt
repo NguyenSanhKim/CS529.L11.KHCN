@@ -1,0 +1,53 @@
+Nhóm N005 sau khi tham khảo một số hội nghị quốc tế về công nghệ thì nhóm chúng em khá là thích thú với một chủ đề nghiên cứu đó là:
+Dự báo chuỗi thời gian lớn (Forecasting Big Time Series) hướng nghiên cứu: Data Management
+
+Dự báo chuỗi thời gian là một thành phần quan trọng trong quá trình tự động hóa và tối ưu hóa quy trình kinh doanh
+
+Ví dụ:+ trong ngành bán lẻ việc quyết định đặt hàng sản phẩm nào và lưu trữ chúng ở đâu phụ thuộc vào dự báo về nhu cầu trong tương lai ở các khu vực khác nhau
+
+
+Input: các nguồn dữ liệu chuỗi thời gian lớn, phong phú và đa dạng.
+
+Output:chúng ta có thể xây dựng các mô hình thống kê để học dự báo một cách hiệu quả và hiệu quả từ các nguồn dữ liệu lớn và đa dạng Và chúng ta có thể tận dụng sức mạnh thống kê của chuỗi thời gian "tương tự" để cải thiện dự báo trong trường hợp quan sát hạn chế.
+
+Link bài báo, tác giả: https://lovvge.github.io/Forecasting-Tutorial-WWW-2020/
+
+Link demo on Youtube: https://www.youtube.com/watch?v=JiX-pv93Rac&list=PLXQZki5lmfwpydjuCKGlKCndCewzDzOq-
+
+Link code Github: https://github.com/search?q=forecasting+tutoria+www+2020&type=code
+
+Link bài báo trên Amazon Science:  https://www.amazon.science/videos-and-tutorials/forecasting-big-time-series-theory-and-practice
+
+Thông tin tìm hiểu:
+
+Time Series Analysis & Forecasting là một trong chủ đề lớn của machine learning. Các dự báo time series được sử dụng trong các lĩnh vực: tài chính ngân hàng, chứng khoán, bảo hiểm, thương mại điện tử, nghiên cứu thị trường..
+
+giải quyết các vấn đề thực tế về 'time series' như dự đoán số tiền bán hàng, giá stock, giá Bitcoin, số tiền thu được từ quảng cáo web, lưu lượng web....
+
+Xây dựng các mô hình như: ARIMA, SARIMA áp dụng trong các bài toán dự báo Time Series.
+
+Vận dụng RNN/LSTM/GRU để giải quyết bài toán liên quan đến Time Series Data
+
+có kiến thức cơ bản về: ngôn ngữ lập trình Python, đại số tuyến tính, xác suất thống kê.
+
+
+Time-series Data: là một chuỗi các điểm dữ liệu, thường bao gồm các phép đo liên tiếp được thực hiện từ cùng một nguồn trong một khoảng thời gian. Phân tích chuỗi thời gian có mục đích nhận đang và tập hợp lại các yếu tố, những biến đổi theo thời gian mà nó có ảnh hưởng đến giá trị của biến quan sát.
+
+Trong Time-series Data, có hai loại chính.
+
+Chuỗi thời gian thông thường (regular time series), loại thông thường được gọi là số liệu.
+Chuỗi thời gian bất thường (events) là những sự kiện.
+Ứng dụng: Time-series data được ứng dụng rất rộng rãi trong các lĩnh vực:
+
+IoT
+DevOps
+Phân tích thời gian thực
+Dự báo kinh tế
+Tính toán doanh số bán hàng
+Phân tích lãi
+Phân tích thị trường
+Kiểm soát quy trình và chất lượng
+Phân tích điều tra
+
+Link bài toán demo của 1 nhà bank muốn dự đoán KH điển hình của họ sẽ gửi tiết kiệm bao nhiêu tiền và các phương pháp thuật toán: 
+https://viblo.asia/p/time-series-data-gDVK2Qbv5Lj
