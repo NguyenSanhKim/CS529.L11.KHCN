@@ -1,0 +1,10 @@
+- Quy trình viết một bài báo khoa học
+ +Viết paper
+ +Chọn và nộp vào conference
+ +Reviewer đọc bản thảo
+	Accecpt
+	Border line
+	Reject
+ +Editor ra quyết định
+ +Đăng kí dự conference
+ +Xuất bản
